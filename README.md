@@ -1,2 +1,2 @@
 # LAB-1
-estructura html
+estructura html basica de paguina wed.
